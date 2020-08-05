@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31661" started-at="2020-08-05T18:57:08Z" finished-at="2020-08-05T18:57:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31661" started-at="2020-08-05T18:57:08Z" finished-at="2020-08-05T18:57:40Z">
+      <class name="Calculator.Calc_Cls">
+        <test-method status="PASS" signature="Initialization()[pri:0, instance:Calculator.Calc_Cls@d7b1517]" name="Initialization" duration-ms="31613" started-at="2020-08-06T00:27:08Z" finished-at="2020-08-06T00:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialization -->
+      </class> <!-- Calculator.Calc_Cls -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
